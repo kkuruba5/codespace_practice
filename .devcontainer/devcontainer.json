@@ -1,0 +1,15 @@
+{
+  "name": "Git Workshop Starter",
+  "image": "://microsoft.com",
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "*/*": {
+          "permissions": {
+            "contents": "write"
+          }
+        }
+      }
+    }
+  }
+}
